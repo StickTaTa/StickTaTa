@@ -1,27 +1,22 @@
-# 你好，我是 YOUR_NAME 👋
+# Hi, I'm Jinjin Huang 👋
 
-> 一句话介绍：专注于 XXX（例如：深度学习 + 单细胞/空间转录组/生物序列建模）
+> One-liner: Working at the intersection of deep learning and single cell omics, spatial transcriptomics, and biological sequence modeling.
 
-## 🔭 我在做什么
-- 🚀 方向1：……
-- 🧬 方向2：……
-- 🧠 方向3：……
+## 🔭 What I'm working on
+- 🚀 Direction 1: Deep learning for spatial transcriptomics
+- 🧬 Direction 2: Deep learning for single cell analysis
+- 🧠 Direction 3: Deep learning for biological sequence modeling
 
-## 🧰 技术栈
-- Languages: Python / R / …
-- DL: PyTorch / …
-- Bio: Scanpy / Seurat / …
-- Tools: Linux / Git / Docker / …
+## 🧰 Tech stack
+- Languages: Python / R
+- DL: PyTorch
+- Bio: Scanpy / Seurat
+- Tools: Linux / Git / Docker
 
-## ⭐ 代表项目
-- [Project A](https://github.com/YOUR_USERNAME/REPO_A) — 一句话说明亮点
-- [Project B](https://github.com/YOUR_USERNAME/REPO_B) — 一句话说明亮点
-- [Project C](https://github.com/YOUR_USERNAME/REPO_C) — 一句话说明亮点
+## ⭐ Featured projects
+- [ResST](https://github.com/StickTaTa/ResST_main) — A lightweight spatial transcriptomics method that helps alleviate batch effects to some extent.
+- [ScFormer](https://github.com/StickTaTa/ScFormer) — A rare cell identification method that can mitigate batch effects to some extent.
 
-## 📫 联系方式
-- Email: your_email@example.com
-- Scholar / Homepage: …
-- Twitter/X / Zhihu / WeChat: …
-
----
-如果你喜欢极简风，我也可以给你一个更克制的版本。
+## 📫 Contact
+- Email: huangjj259@mail2.sysu.edu.cn
+- Scholar / Homepage: Sun Yat-sen University
