@@ -16,6 +16,7 @@
 ## ⭐ Featured projects
 - [ResST](https://github.com/StickTaTa/ResST_main) — A lightweight spatial transcriptomics method that helps alleviate batch effects to some extent.
 - [ScFormer](https://github.com/StickTaTa/ScFormer) — A rare cell identification method that can mitigate batch effects to some extent.
+- [codonCraft (Private)](https://github.com/StickTaTa/codoncraft) — A deep learning framework for codon optimization.
 
 ## 📫 Contact
 - Email: huangjj259@mail2.sysu.edu.cn
